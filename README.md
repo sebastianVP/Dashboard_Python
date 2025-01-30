@@ -23,4 +23,11 @@ Primero , vamos a instalar todos los paquetes que utilizaremos para crear el das
 * dash_bootstrap_components: Para configura el layaout de nuestro dashboard, estilo y usar los componentes 
 desde el dash bootstrap en lugar del componente por defecto de dash.
 
+1. PRIMERA PARTE DEL CODIGO
 
+El siguiente paso es cargar y procesar los datos, luego inicializar una aplicación Dash y definir la paleta de colores
+ que usaremos en las figuras gráficas
+
+2. CARGAR Y PROCESAR LA DATA E INICIALIZAR LA APP
+
+En la sección de inicialización de la aplicación, incluimos dbc.themes.BOOSTRAPas external_stylesheetspara permitirnos utilizar el componente Bootstrap.
